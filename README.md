@@ -10,7 +10,7 @@ This project is a music player application user interface built using only HTML 
 - **Customizable Styling**: The CSS is structured in a way that allows for easy customization and modification of styles.
 
 ## Technologies Used
-[![Frontend](https://skillicons.dev/icons?i=html,css)]
+[![Frontend](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 - **HTML**: For structuring the web page.
 - **CSS**: For styling and design.
@@ -21,15 +21,5 @@ This project is a music player application user interface built using only HTML 
 2. Open `index.html` in your web browser.
 3. Explore the music player UI to see the layout and design.
 
-## Future Improvements
-
-- Add JavaScript functionality to make the music player interactive and functional.
-- Implement features such as play, pause, skip, volume control, etc.
-- Add support for displaying album artwork and song information.
-- Enhance the UI with animations and transitions for a more engaging user experience.
 
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
