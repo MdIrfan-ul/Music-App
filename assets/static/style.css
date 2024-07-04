@@ -498,7 +498,7 @@ input[type="radio"]:checked {
 }
 
 .latest-release-img-container {
-  background-image: url(/assets/Images/latest-song.png);
+  background-image: url(../Images/latest-song.png);
   background-size: cover;
   height: 5rem;
   width: 5rem;
@@ -942,11 +942,11 @@ input[type="radio"]:checked {
 }
 
 .genre-img-2 {
-  background-image: url("../images/electronic.jpg");
+  background-image: url(../images/electronic.jpg);
 }
 
 .genre-img-3 {
-  background-image: url("../images/road-trip.jpg");
+  background-image: url(../images/road-trip.jpg);
 }
 
 /* latest-english */
