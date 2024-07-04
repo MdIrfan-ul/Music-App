@@ -828,7 +828,7 @@ input[type="radio"]:checked {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../images/stations-img.png);
+  background-image: url(../Images/stations-img.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -859,7 +859,7 @@ input[type="radio"]:checked {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url(../images/love.jpg);
+  background-image: url(../Images/love.jpg);
   background-position: center;
   background-size: 100% 100%;
   background-size: cover;
@@ -867,23 +867,23 @@ input[type="radio"]:checked {
 }
 
 .img-2 {
-  background-image: url(../images/retro.png) !important;
+  background-image: url(../Images/retro.png) !important;
 }
 
 .img-3 {
-  background-image: url(../images/chill.jpg) !important;
+  background-image: url(../Images/chill.jpg) !important;
 }
 
 .img-4 {
-  background-image: url(../images/workout.jpg) !important;
+  background-image: url(../Images/workout.jpg) !important;
 }
 
 .img-5 {
-  background-image: url(../images/rock.jpg) !important;
+  background-image: url(../Images/rock.jpg) !important;
 }
 
 .img-6 {
-  background-image: url(../images/pop.jpg) !important;
+  background-image: url(../Images/pop.jpg) !important;
 }
 
 .stations-para {
@@ -913,7 +913,7 @@ input[type="radio"]:checked {
 .genre-img-container {
   width: 32%;
   height: 9rem;
-  background-image: url(../images/party.jpg);
+  background-image: url(../Images/party.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
@@ -942,11 +942,11 @@ input[type="radio"]:checked {
 }
 
 .genre-img-2 {
-  background-image: url(../images/electronic.jpg);
+  background-image: url(../Images/electronic.jpg);
 }
 
 .genre-img-3 {
-  background-image: url(../images/road-trip.jpg);
+  background-image: url(../Images/road-trip.jpg);
 }
 
 /* latest-english */
@@ -1029,7 +1029,7 @@ footer {
   height: 4rem;
   width: 4rem;
   margin: 1vh;
-  background: url("../queue/peaches.jpg") center no-repeat;
+  background: url("../Queue/peaches.jpg") center no-repeat;
   background-size: contain;
 }
 
